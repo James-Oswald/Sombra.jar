@@ -86,6 +86,7 @@ public class Sombra
 				System.out.println("Failure");
 			}
 			new Thread(this).start();
+			f.setIconImage(img.getImage());
 		}
 	  
 		public void paintComponent(Graphics g)

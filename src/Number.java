@@ -1,4 +1,7 @@
 
+//I have no idea what this file is for, or what i was doing with it
+
+
 import java.awt.IconImage;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
